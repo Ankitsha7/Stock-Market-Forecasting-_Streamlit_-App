@@ -4,7 +4,7 @@ An interactive Streamlit web application that allows users to visualize and fore
 
 
 
-<img width="626" height="417" alt="image" src="https://github.com/user-attachments/assets/66aad98b-f5fc-4e14-8a7f-9a04c69c4f44" />
+<img width="626" height="417" alt="image" src="https://github.com/user-attachments/assets/66aad98b-f5fc-4e14-8a7f-9a04c69c4f44" /
 
 
 
@@ -47,6 +47,7 @@ Statistical Modeling: Statsmodels, Prophet
 Machine Learning: Scikit-learn, Keras/TensorFlow
 
 Deployment: Streamlit Cloud / GitHub
+
 
 
 
