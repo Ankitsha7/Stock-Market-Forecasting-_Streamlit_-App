@@ -1,5 +1,4 @@
 📈 Stock Market Forecasting App
-https://ankitsha7-stock-market-forecasting--streamlit--app-app-8ylnk8.streamlit.app/
 
 An interactive Streamlit web application that allows users to visualize and forecast stock prices using multiple machine learning and time series models — including SARIMA, Random Forest, LSTM, and Prophet.
 
@@ -47,4 +46,5 @@ Statistical Modeling: Statsmodels, Prophet
 Machine Learning: Scikit-learn, Keras/TensorFlow
 
 Deployment: Streamlit Cloud / GitHub
+
 
