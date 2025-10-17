@@ -8,7 +8,7 @@ An interactive Streamlit web application that allows users to visualize and fore
 
 
 
-
+visit at :- https://ankitsha7-stock-market-forecasting--streamlit--app-app-8ylnk8.streamlit.app/
 
 
 
@@ -47,6 +47,7 @@ Statistical Modeling: Statsmodels, Prophet
 Machine Learning: Scikit-learn, Keras/TensorFlow
 
 Deployment: Streamlit Cloud / GitHub
+
 
 
 
